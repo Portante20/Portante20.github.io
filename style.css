@@ -101,6 +101,8 @@ header a {
     text-decoration: none;
     transition: var(--transition);
     font-weight: 500;
+    font-size: 20px;
+    padding: 8px 16px;
 }
 
 header a:hover,
@@ -460,3 +462,4 @@ footer .interface {
         gap: 15px; /* Reduzido de 20px para 15px */
     }
 }
+
